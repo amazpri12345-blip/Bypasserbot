@@ -1,1 +1,2 @@
-python-telegram-bot>=21,<23\nrequests>=2.31,<3\n
+python-telegram-bot>=21<23
+requests>2.31,<3
