@@ -1,4 +1,4 @@
-lfrom telethon import TelegramClient, events, Button
+from telethon import TelegramClient, events, Button
 import asyncio
 import aiohttp
 import aiofiles
